@@ -1,2 +1,2 @@
 # challenge1
-Bootcamp Challenge 1
+Bootcamo Challange Project by Kazim OZDIL
